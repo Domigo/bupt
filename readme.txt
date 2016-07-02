@@ -6,3 +6,4 @@ add master
 
 add dev
 
+log del
